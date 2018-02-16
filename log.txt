@@ -1,0 +1,88 @@
+
+node liri.js my-tweets, 2018:02:16:04:28:12
+
+myTweets list My Tweets:
+Created at: Fri Feb 16 06:28:27 +0000 2018
+Tweet's text: omg this is the best post iv seen all week
+Created at: Fri Feb 16 06:27:19 +0000 2018
+Tweet's text: Dahil sa ginawa niya parang nawala ang alak na ininom ko kanina.
+Created at: Fri Feb 16 06:21:57 +0000 2018
+Tweet's text: Time to end the visa lottery. Congress must secure the immigration system and protect Americans. https://t.co/oNv2NSfrPs …
+Created at: Fri Feb 16 06:21:39 +0000 2018
+Tweet's text: Jobless claims have dropped to a 45 year low!
+Created at: Fri Feb 16 06:18:11 +0000 2018
+Tweet's text: I want my first daughter to be a girl
+, 2018:02:16:04:28:12
+
+search result # 1:
+Artist(s): Frank Ocean
+The song's name: Moon River
+The album that the song is from: Moon River
+A preview link of the song from Spotify: https://p.scdn.co/mp3-preview/8272b8195f955fa24e56dfcb08fb0dd7bfad0b38?cid=2c4fc6a03cfc4a2aa6bb3f6efe5b336e, 2018:02:16:04:28:28
+
+search result # 2:
+Artist(s): Huncho Jack
+The song's name: Moon Rock
+The album that the song is from: Huncho Jack, Jack Huncho
+A preview link of the song from Spotify: null, 2018:02:16:04:28:28
+
+search result # 3:
+Artist(s): Tom Petty
+The song's name: Free Fallin'
+The album that the song is from: Full Moon Fever
+A preview link of the song from Spotify: null, 2018:02:16:04:28:28
+
+search result # 4:
+Artist(s): Bruno Mars
+The song's name: Talking To The Moon
+The album that the song is from: Doo-Wops & Hooligans
+A preview link of the song from Spotify: https://p.scdn.co/mp3-preview/97de5b6d487f491cddfb427c1612f45f5b3c9388?cid=2c4fc6a03cfc4a2aa6bb3f6efe5b336e, 2018:02:16:04:28:28
+
+search result # 5:
+Artist(s): Creedence Clearwater Revival
+The song's name: Bad Moon Rising
+The album that the song is from: Green River (40th Anniversary Edition)
+A preview link of the song from Spotify: null, 2018:02:16:04:28:28
+
+null, 2018:02:16:04:30:23
+
+Title: Kill Bill: Vol. 1
+Year: 2003
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English, Japanese, French
+Plot: The Bride wakens from a four-year coma. The child she carried in her womb is gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of.
+Actors: Uma Thurman, Lucy Liu, Vivica A. Fox, Daryl Hannah, 2018:02:16:04:31:49
+
+spotify-this-song,"I Want it That Way", 2018:02:16:04:31:56
+
+search result # 1:
+Artist(s): Backstreet Boys
+The song's name: I Want It That Way
+The album that the song is from: The Hits--Chapter One
+A preview link of the song from Spotify: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=2c4fc6a03cfc4a2aa6bb3f6efe5b336e, 2018:02:16:04:31:58
+
+search result # 2:
+Artist(s): Backstreet Boys
+The song's name: I Want It That Way
+The album that the song is from: The Essential Backstreet Boys
+A preview link of the song from Spotify: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=2c4fc6a03cfc4a2aa6bb3f6efe5b336e, 2018:02:16:04:31:58
+
+search result # 5:
+Artist(s): Glee Cast
+The song's name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+The album that the song is from: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+A preview link of the song from Spotify: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=2c4fc6a03cfc4a2aa6bb3f6efe5b336e, 2018:02:16:04:31:58
+
+search result # 4:
+Artist(s): Anthem Lights
+The song's name: I Want It That Way
+The album that the song is from: Covers Part IV
+A preview link of the song from Spotify: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=2c4fc6a03cfc4a2aa6bb3f6efe5b336e, 2018:02:16:04:31:58
+
+search result # 3:
+Artist(s): Backstreet Boys
+The song's name: I Want It That Way
+The album that the song is from: Millennium
+A preview link of the song from Spotify: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=2c4fc6a03cfc4a2aa6bb3f6efe5b336e, 2018:02:16:04:31:58
